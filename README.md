@@ -1,4 +1,4 @@
-# PlaygroundSystemProject
+# Playground System Project
 
 - This project is for booking football playgrounds. It targets two users. playground owners who register their
 playgrounds on the system and players who book these playgrounds.
